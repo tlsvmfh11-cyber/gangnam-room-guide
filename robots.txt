@@ -1,3 +1,17 @@
 User-agent: *
 Allow: /
-Sitemap: https://example.com/sitemap.xml
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl-delay for specific bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap
+Sitemap: https://gangnam-room-guide.com/sitemap.xml
+
+# Host (preferred domain)
+Host: https://gangnam-room-guide.com

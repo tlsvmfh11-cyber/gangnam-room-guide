@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
-        <loc>https://example.com/</loc>
+        <loc>https://gangnam-room-guide.com/</loc>
         <lastmod>2026-02-12</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://gangnam-room-guide.com/gangnam-room-hero.webp</image:loc>
+            <image:title>강남 유흥 룸살롱 고급 인테리어</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://gangnam-room-guide.com/gangnam-tenpro-luxury.webp</image:loc>
+            <image:title>강남 텐프로 최고급 VIP 서비스</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://gangnam-room-guide.com/gangnam-jjumo-business.webp</image:loc>
+            <image:title>강남 쩜오 비즈니스 접대</image:title>
+        </image:image>
     </url>
 </urlset>
