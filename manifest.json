@@ -1,0 +1,21 @@
+{
+  "name": "강남 유흥 완전 정복 가이드",
+  "short_name": "강남 유흥 가이드",
+  "description": "텐프로부터 가라오케까지, 강남 유흥업소의 모든 계급과 시스템을 완벽 분석합니다",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1929",
+  "theme_color": "#4a90e2",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
